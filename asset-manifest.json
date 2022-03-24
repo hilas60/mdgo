@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mdgo/static/css/main.fe4e03c7.css",
+    "main.js": "/mdgo/static/js/main.a31e1336.js",
+    "static/js/787.9201ab72.chunk.js": "/mdgo/static/js/787.9201ab72.chunk.js",
+    "index.html": "/mdgo/index.html",
+    "main.fe4e03c7.css.map": "/mdgo/static/css/main.fe4e03c7.css.map",
+    "main.a31e1336.js.map": "/mdgo/static/js/main.a31e1336.js.map",
+    "787.9201ab72.chunk.js.map": "/mdgo/static/js/787.9201ab72.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe4e03c7.css",
+    "static/js/main.a31e1336.js"
+  ]
+}
